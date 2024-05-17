@@ -77,7 +77,7 @@
 <br>
 
 <a href="https://icons8.com/icon/118638/tiktok" target="_blank">
-  <img src="images/tiktok.png.jpg" width="1200" alt="TTTT0803" />
+  <img src="images/tiktok.png" width="1200" alt="TTTT0803" />
 </a>
 
 <br>
