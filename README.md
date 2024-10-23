@@ -31,15 +31,23 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/laravel-282C34?logo=laravel&logoColor=F7DF1E" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/php-282C34?logo=php&logoColor=F7DF1E" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
+&nbsp;
 
+<h2 align="center">Contact me</h2>
+<br>
 
-
-
-
-<a href="https://icons8.com/icon/118638/tiktok" target="_blank">
-  <img src="images/tiktok.png" width="1200" alt="TTTT0803" />
+<a href="https://www.tiktok.com/@trinhthanhthao2k5" target="_blank">
+  <img src="images/tiktokme.png" width="1200" alt="TTTT0803" />
 </a>
 
 <br>
+<!-- Facebook Icon -->
+<a href="https://www.facebook.com/trinhthi.thao.104?locale=vi_VN" target="_blank">
+  <img src="images/facebookme.png" width="1200" alt="Facebook Icon" />
+</a>
+&nbsp;
 
 
