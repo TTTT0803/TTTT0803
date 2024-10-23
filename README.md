@@ -38,15 +38,15 @@
 
 <h2 align="center">Contact me</h2>
 <br>
-
+<h3 align="center">TikTok me</h3>
 <a href="https://www.tiktok.com/@trinhthanhthao2k5" target="_blank">
-  <img src="images/tiktokme.png" width="1200" alt="TTTT0803" />
+  <img src="images/tiktokme.png" width="1200" style="margin-bottom: 20px;" alt="TTTT0803" />
 </a>
-
 <br>
+<h3 align="center">Facebook me</h3>
 <!-- Facebook Icon -->
 <a href="https://www.facebook.com/trinhthi.thao.104?locale=vi_VN" target="_blank">
-  <img src="images/facebookme.png" width="1200" alt="Facebook Icon" />
+  <img src="images/fb.png" width="1200" alt="Facebook Icon" />
 </a>
 &nbsp;
 
