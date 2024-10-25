@@ -36,18 +36,12 @@
 <span><img src="https://img.shields.io/badge/php-282C34?logo=php&logoColor=F7DF1E" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
 
-<h2 align="center">Contact me</h2>
-<br>
-<h3 align="center">My TikTok </h3>
-<a href="https://www.tiktok.com/@trinhthanhthao2k5" target="_blank">
-  <img src="images/tiktokme.png" width="1200" style="margin-bottom: 20px;" alt="TTTT0803" />
-</a>
-<br>
-<h3 align="center">My Facebook </h3>
-<!-- Facebook Icon -->
-<a href="https://www.facebook.com/trinhthi.thao.104?locale=vi_VN" target="_blank">
-  <img src="images/fb.png" width="1200" alt="Facebook Icon" />
-</a>
-&nbsp;
+<h2 align="center">## 🌐Socials</h2>
+
+<!-- Social Media Links -->
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/trinhthi.thao.104?locale=vi_VN) 
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white&style=for-the-badge)](https://www.tiktok.com/@trinhthanhthao2k5)
+
+
 
 
