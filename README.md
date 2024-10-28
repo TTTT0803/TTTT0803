@@ -36,12 +36,18 @@
 <span><img src="https://img.shields.io/badge/php-282C34?logo=php&logoColor=F7DF1E" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
 
-<h2 align="center">## 🌐Socials</h2>
+<h2 align="center">🌐Socials🌐</h2>
 
 <!-- Social Media Links -->
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/trinhthi.thao.104?locale=vi_VN) 
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white&style=for-the-badge)](https://www.tiktok.com/@trinhthanhthao2k5)
 
+<h2 align="center">📝Certificate📝</h2>
+<p align="center">
+  <a href="https://codelearn.io/share/3f1b853e-cff4-410a-ada0-74752999afd4">
+    <img src="https://img.shields.io/badge/Codelearn-%231877F2.svg?&logoColor=white&style=for-the-badge&color=green" alt="Codelearn">
+  </a>
+</p>
 
 
 
