@@ -50,7 +50,7 @@
    <a href="/images/OS.png">
     <img src="https://img.shields.io/badge/Operating%20Systems-%231877F2.svg?&logoColor=white&style=for-the-badge&color=yellow" alt="Operating Systems">
   </a>
-   <a href="/images/OS.png">
+   <a href="/images/badge.png">
     <img src="https://img.shields.io/badge/Badge-%231877F2.svg?&logoColor=white&style=for-the-badge&color=green" alt="Badge">
   </a>
 </p>
