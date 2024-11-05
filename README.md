@@ -47,8 +47,11 @@
   <a href="https://codelearn.io/share/3f1b853e-cff4-410a-ada0-74752999afd4">
     <img src="https://img.shields.io/badge/Codelearn%20C++(basic)-%231877F2.svg?&logoColor=white&style=for-the-badge&color=green" alt="Codelearn">
   </a>
-   <a href="https://www.netacad.com/profile?tab=learningHistory">
+   <a href="/images/OS.png">
     <img src="https://img.shields.io/badge/Operating%20Systems-%231877F2.svg?&logoColor=white&style=for-the-badge&color=yellow" alt="Operating Systems">
+  </a>
+   <a href="/images/OS.png">
+    <img src="https://img.shields.io/badge/Badge-%231877F2.svg?&logoColor=white&style=for-the-badge&color=green" alt="Badge">
   </a>
 </p>
 
